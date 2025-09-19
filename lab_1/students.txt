@@ -1,0 +1,130 @@
+
+Student КазнієнкоВікторія
+{
+ "firstname": "Казнієнко",
+ "lastname": "Вікторія",
+ "studentId": "АВ47294"
+ "passport":"КА47229"
+ "weight": "50",
+ "height": "159",
+ };
+
+Student ВікторіяКазнієнко 
+{
+ "firstname": "Вікторія",
+ "lastname": "Казнієнко ",
+ "studentId": "ЛА2039"
+ "passport":"ВР8934"
+ "weight": "52",
+ "height": "162",
+ };
+
+Student Віталій''Сергієнко
+{
+ "firstname": "Віталій",
+ "lastname": "Сергієнко",
+ "studentId": "ВА349284"
+ "passport":"ПІ9342"
+ "weight": "68",
+ "height": "178",
+ };
+
+Student Віктор Вікторович
+{
+ "firstname": "Віктор",
+ "lastname": "Вікторович",
+ "studentId": "ВА8372"
+ "passport":"АРА8320"
+ "weight": "78",
+ "height": "188",
+ };
+
+Student Женя Сергієнко
+{
+ "firstname": "Женя",
+ "lastname": "Сергієнко",
+ "studentId": "АВ23840"
+ "passport":"РА92384"
+ "weight": "65",
+ "height": "175",
+ };
+
+Student Ава Клі
+{
+ "firstname": "Ава",
+ "lastname": "Клі",
+ "studentId": "АВ3984"
+ "passport":"Ауг43"
+ "weight": "56",
+ "height": "187",
+ };
+
+SoftwareDeveloper Джон Рей
+{
+ "firstname": "Джон ",
+ "lastname": "Рей",
+ };
+
+Student Андрій Василів
+{
+ "firstname": "Андрій",
+ "lastname": "Василів",
+ "studentId": "АА4444"
+ "passport":"ПР555"
+ "weight": "87",
+ "height": "197",
+ };
+
+Student Арсеній Шувурдін
+{
+ "firstname": "Арсеній",
+ "lastname": "Шувурдін",
+ "studentId": "АГ7789"
+ "passport":"АП8768"
+ "weight": "87",
+ "height": "197",
+ };
+
+Librarian 1Вікв
+{
+ "firstname": "1",
+ "lastname": "Вікв",
+ };
+
+Librarian Ангеліна-
+{
+ "firstname": "Ангеліна",
+ "lastname": "-",
+ };
+
+SoftwareDeveloper ДімаДмитренко
+{
+ "firstname": "Діма",
+ "lastname": "Дмитренко",
+ "riding_bike": "Діма Дмитренко катається на велосипеді до хакатону"
+ };
+
+Librarian РостікНастійний
+{
+ "firstname": "Ростік",
+ "lastname": "Настійний",
+ "riding_bike": "Ростік Настійний катається на велосипеді до бібліотеки"
+ };
+
+Librarian Ганна Юрівна
+{
+ "firstname": "Ганна ",
+ "lastname": "Юрівна",
+ "riding_bike": "Ганна  Юрівна катається на велосипеді"
+ };
+
+Student Артем Клопотенко
+{
+ "firstname": "Артем",
+ "lastname": "Клопотенко",
+ "studentId": "АР4646"
+ "passport":"КР87837"
+ "weight": "70",
+ "height": "180",
+ };
+
